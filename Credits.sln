@@ -11,7 +11,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		NuGet.Config = NuGet.Config
 	EndProjectSection
 EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "ConsoleApp1", "src\ConsoleApp1\ConsoleApp1.xproj", "{EF056999-03C9-49D8-9E93-A01BBA7382CF}"
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Credits", "src\Credits\Credits.xproj", "{EF056999-03C9-49D8-9E93-A01BBA7382CF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
